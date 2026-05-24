@@ -6,7 +6,7 @@ Summary:	Yubikey management library and client
 Summary(pl.UTF-8):	Biblioteka i klient do zarządzania urządzeniami Yubikey
 Name:		ykclient
 Version:	2.15
-Release:	2
+Release:	3
 License:	BSD
 Group:		Applications/System
 Source0:	https://developers.yubico.com/yubico-c-client/Releases/%{name}-%{version}.tar.gz
